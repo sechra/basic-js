@@ -21,4 +21,4 @@ module.exports = class DepthCalculator {
       }
       return Math.max(...d);
     }
-
+}
